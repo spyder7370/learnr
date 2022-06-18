@@ -1,0 +1,22 @@
+.navbar {
+    height: 10rem;
+}
+
+.howto-container {
+    display: flex;
+    justify-content: center;
+    height: 10rem;
+}
+
+.navbar-brand {
+    height: 10rem;
+}
+
+.navbar-brand .nav-a {
+    height: 10rem;
+}
+
+.navbar-brand a img {
+    margin-top: 2rem;
+    /* transform: scale(2); */
+}
